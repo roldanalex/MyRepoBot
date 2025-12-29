@@ -2,9 +2,9 @@
 
 **Streamline your workflow by automating the creation of Github repositories and R project templates directly from the command line.**
 
-## Overview
+## About
 
-This tool simplifies the process of initializing new projects. Whether you are setting up a standard Github repository or a specialized R project template, this automation script handles both the local directory creation and the remote Github repository setup.
+**Automate Repo** is a CLI utility that automates the setup of Github repositories and local project directories. It features specialized templates for R/Shiny projects, ensuring a consistent and professional structure from day one.
 
 ## Key Benefits
 
